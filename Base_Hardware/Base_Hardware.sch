@@ -676,7 +676,7 @@ U 1 1 5EE06865
 P 4600 1850
 F 0 "J3" H 4500 1700 50  0000 L CNN
 F 1 "NEO Out" H 4350 2100 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal" H 4600 1850 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 4600 1850 50  0001 C CNN
 F 3 "~" H 4600 1850 50  0001 C CNN
 	1    4600 1850
 	1    0    0    -1  

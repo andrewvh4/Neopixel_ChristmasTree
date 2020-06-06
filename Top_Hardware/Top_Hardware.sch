@@ -20,7 +20,7 @@ U 1 1 5ED649F4
 P 1800 2450
 F 0 "J1" H 1900 2300 50  0000 C CNN
 F 1 "NEO In" H 1906 2637 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal" H 1800 2450 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 1800 2450 50  0001 C CNN
 F 3 "~" H 1800 2450 50  0001 C CNN
 	1    1800 2450
 	1    0    0    -1  
@@ -380,7 +380,7 @@ U 1 1 5ED6A558
 P 10250 2450
 F 0 "J2" H 10277 2476 50  0000 L CNN
 F 1 "Conn_01x03_Female" H 10277 2385 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal" H 10250 2450 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 10250 2450 50  0001 C CNN
 F 3 "~" H 10250 2450 50  0001 C CNN
 	1    10250 2450
 	1    0    0    -1  
