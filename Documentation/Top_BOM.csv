@@ -1,0 +1,4 @@
+Id,Designator,Package,Designation,,Item Name,Part Number,,,Vendor,Quantity,Cost Per Item,,Cost,,Comments,URL
+1,C1,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,10u,,10uF 0603 Capacitor,490-10728-1-ND,,,Digikey,1,0.32,,0.64,,,https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM188R61C106KAALD/490-10728-1-ND/5251372
+2,"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12",SK6805-EC,SK6805,,NEOPIXEL RGB LED 1515 SK6805-EC 15,1528-4492-ND,,,Digikey,12,0.395,,4.74,,,https://www.digikey.com/product-detail/en/4492/1528-4492-ND/11569136/?itemSeq=327744706
+3,J2,PinSocket_1x03_P2.54mm_Horizontal,Conn_01x03_Female,,CONN HDR 3POS 0.1 TIN PCB R/A,S5439-ND,,,Digikey,1,0.5,,0.5,,,https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPTC031LGBN-RC/S5439-ND/775897
