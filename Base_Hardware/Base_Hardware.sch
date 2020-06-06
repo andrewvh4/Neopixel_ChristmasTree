@@ -20,7 +20,7 @@ U 1 1 5ED63AA6
 P 2900 5850
 F 0 "D1" H 3000 5600 50  0000 L CNN
 F 1 "SK6805" H 3000 6100 50  0000 L CNN
-F 2 "LED_SMD:LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm" H 2950 5550 50  0001 L TNN
+F 2 "ProjectLibrary:SK6805-EC" H 2950 5550 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 3000 5475 50  0001 L TNN
 	1    2900 5850
 	1    0    0    -1  
@@ -254,7 +254,7 @@ U 1 1 5ED73EB9
 P 3550 5850
 F 0 "D2" H 3650 5600 50  0000 L CNN
 F 1 "SK6805" H 3650 6100 50  0000 L CNN
-F 2 "LED_SMD:LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm" H 3600 5550 50  0001 L TNN
+F 2 "ProjectLibrary:SK6805-EC" H 3600 5550 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 3650 5475 50  0001 L TNN
 	1    3550 5850
 	1    0    0    -1  
@@ -269,7 +269,7 @@ U 1 1 5ED743BC
 P 4200 5850
 F 0 "D4" H 4300 5600 50  0000 L CNN
 F 1 "SK6805" H 4300 6100 50  0000 L CNN
-F 2 "LED_SMD:LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm" H 4250 5550 50  0001 L TNN
+F 2 "ProjectLibrary:SK6805-EC" H 4250 5550 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 4300 5475 50  0001 L TNN
 	1    4200 5850
 	1    0    0    -1  
@@ -284,7 +284,7 @@ U 1 1 5ED743D1
 P 4850 5850
 F 0 "D5" H 4950 5600 50  0000 L CNN
 F 1 "SK6805" H 4950 6100 50  0000 L CNN
-F 2 "LED_SMD:LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm" H 4900 5550 50  0001 L TNN
+F 2 "ProjectLibrary:SK6805-EC" H 4900 5550 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 4950 5475 50  0001 L TNN
 	1    4850 5850
 	1    0    0    -1  
@@ -299,7 +299,7 @@ U 1 1 5ED749EB
 P 5500 5850
 F 0 "D7" H 5600 5600 50  0000 L CNN
 F 1 "SK6805" H 5600 6100 50  0000 L CNN
-F 2 "LED_SMD:LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm" H 5550 5550 50  0001 L TNN
+F 2 "ProjectLibrary:SK6805-EC" H 5550 5550 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 5600 5475 50  0001 L TNN
 	1    5500 5850
 	1    0    0    -1  
@@ -308,17 +308,6 @@ Wire Wire Line
 	5500 6150 5500 6200
 Wire Wire Line
 	5500 5500 5500 5550
-$Comp
-L LED:SK6805 D8
-U 1 1 5ED74A00
-P 6150 5850
-F 0 "D8" H 6250 5600 50  0000 L CNN
-F 1 "SK6805" H 6250 6100 50  0000 L CNN
-F 2 "LED_SMD:LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm" H 6200 5550 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 6250 5475 50  0001 L TNN
-	1    6150 5850
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	6150 6150 6150 6200
 Wire Wire Line
@@ -329,7 +318,7 @@ U 1 1 5ED74A15
 P 6800 5850
 F 0 "D9" H 6900 5600 50  0000 L CNN
 F 1 "SK6805" H 6900 6100 50  0000 L CNN
-F 2 "LED_SMD:LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm" H 6850 5550 50  0001 L TNN
+F 2 "ProjectLibrary:SK6805-EC" H 6850 5550 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 6900 5475 50  0001 L TNN
 	1    6800 5850
 	1    0    0    -1  
@@ -344,7 +333,7 @@ U 1 1 5ED74A2A
 P 7450 5850
 F 0 "D10" H 7550 5600 50  0000 L CNN
 F 1 "SK6805" H 7550 6100 50  0000 L CNN
-F 2 "LED_SMD:LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm" H 7500 5550 50  0001 L TNN
+F 2 "ProjectLibrary:SK6805-EC" H 7500 5550 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 7550 5475 50  0001 L TNN
 	1    7450 5850
 	1    0    0    -1  
@@ -404,7 +393,7 @@ U 1 1 5ED8B60B
 P 8150 5850
 F 0 "D11" H 8250 5600 50  0000 L CNN
 F 1 "SK6805" H 8250 6100 50  0000 L CNN
-F 2 "LED_SMD:LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm" H 8200 5550 50  0001 L TNN
+F 2 "ProjectLibrary:SK6805-EC" H 8200 5550 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 8250 5475 50  0001 L TNN
 	1    8150 5850
 	1    0    0    -1  
@@ -417,7 +406,7 @@ U 1 1 5ED8B612
 P 8800 5850
 F 0 "D12" H 8900 5600 50  0000 L CNN
 F 1 "SK6805" H 8900 6100 50  0000 L CNN
-F 2 "LED_SMD:LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm" H 8850 5550 50  0001 L TNN
+F 2 "ProjectLibrary:SK6805-EC" H 8850 5550 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 8900 5475 50  0001 L TNN
 	1    8800 5850
 	1    0    0    -1  
@@ -430,28 +419,15 @@ U 1 1 5ED8B619
 P 9450 5850
 F 0 "D13" H 9550 5600 50  0000 L CNN
 F 1 "SK6805" H 9550 6100 50  0000 L CNN
-F 2 "LED_SMD:LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm" H 9500 5550 50  0001 L TNN
+F 2 "ProjectLibrary:SK6805-EC" H 9500 5550 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 9550 5475 50  0001 L TNN
 	1    9450 5850
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	9450 6150 9450 6200
-$Comp
-L LED:SK6805 D14
-U 1 1 5ED8B620
-P 10100 5850
-F 0 "D14" H 10200 5600 50  0000 L CNN
-F 1 "SK6805" H 10200 6100 50  0000 L CNN
-F 2 "LED_SMD:LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm" H 10150 5550 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 10200 5475 50  0001 L TNN
-	1    10100 5850
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
-	10100 6150 10100 6200
-Wire Wire Line
-	10400 5850 10450 5850
+	9750 5850 9800 5850
 Wire Wire Line
 	2900 5450 2900 5500
 Connection ~ 2900 5500
@@ -459,14 +435,9 @@ Wire Wire Line
 	8150 5550 8150 5500
 Wire Wire Line
 	8150 5500 8800 5500
-Wire Wire Line
-	10100 5500 10100 5550
 Connection ~ 8150 5500
 Wire Wire Line
 	9450 5550 9450 5500
-Connection ~ 9450 5500
-Wire Wire Line
-	9450 5500 10100 5500
 Wire Wire Line
 	8800 5550 8800 5500
 Connection ~ 8800 5500
@@ -481,11 +452,6 @@ Connection ~ 8150 6200
 Connection ~ 8800 6200
 Wire Wire Line
 	8800 6200 9450 6200
-Connection ~ 9450 6200
-Wire Wire Line
-	9450 6200 10100 6200
-Wire Wire Line
-	9800 5850 9750 5850
 Wire Wire Line
 	9150 5850 9100 5850
 Wire Wire Line
@@ -506,7 +472,7 @@ Wire Wire Line
 	3900 5850 3850 5850
 Wire Wire Line
 	3250 5850 3200 5850
-Text GLabel 10450 5850 2    50   Output ~ 0
+Text GLabel 9800 5850 2    50   Output ~ 0
 DOut'
 $Comp
 L power:+5V #PWR0109
@@ -560,16 +526,10 @@ Wire Notes Line
 	3700 2550 3700 4750
 Wire Notes Line
 	1900 5200 10750 5200
-Wire Notes Line
-	1900 6300 10750 6300
 Text Notes 5700 5100 0    197  ~ 39
 Neopixels
 Wire Notes Line
-	10750 4750 10750 6300
-Wire Notes Line
 	1900 4750 10750 4750
-Wire Notes Line
-	1900 900  1900 6300
 $Comp
 L Device:LED D3
 U 1 1 5EDD448E
@@ -719,6 +679,35 @@ F 1 "NEO Out" H 4350 2100 50  0000 L CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal" H 4600 1850 50  0001 C CNN
 F 3 "~" H 4600 1850 50  0001 C CNN
 	1    4600 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0115
+U 1 1 5EDBDD3F
+P 2900 6200
+F 0 "#PWR0115" H 2900 5950 50  0001 C CNN
+F 1 "GND" H 2905 6027 50  0000 C CNN
+F 2 "" H 2900 6200 50  0001 C CNN
+F 3 "" H 2900 6200 50  0001 C CNN
+	1    2900 6200
+	1    0    0    -1  
+$EndComp
+Connection ~ 2900 6200
+Wire Notes Line
+	1900 6450 10750 6450
+Wire Notes Line
+	10750 4750 10750 6450
+Wire Notes Line
+	1900 900  1900 6450
+$Comp
+L LED:SK6805 D8
+U 1 1 5EDC36C0
+P 6150 5850
+F 0 "D8" H 6250 5600 50  0000 L CNN
+F 1 "SK6805" H 6250 6100 50  0000 L CNN
+F 2 "ProjectLibrary:SK6805-EC" H 6200 5550 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 6250 5475 50  0001 L TNN
+	1    6150 5850
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
