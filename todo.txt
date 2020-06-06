@@ -1,0 +1,2 @@
+Verify NeoPixel size and quantity from Digikey (How many came in?)
+Align connecting headers
